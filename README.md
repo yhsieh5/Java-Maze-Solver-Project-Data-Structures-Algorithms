@@ -2,6 +2,8 @@
 
 This Final Java project generates mazes using a randomized Kruskal's algorithm and finds the shortest path through the maze using Dijkstra's algorithm. It utilizes a custom implementation of data structures, such as priority queues and disjoint sets, to illustrate algorithmic concepts. This project was developed as part of **CSE 373: Data Structures and Algorithms** at the University of Washington.
 
+([Course Project Link](https://courses.cs.washington.edu/courses/cse373/25wi/projects/mazes/))
+
 <table>
   <tr>
     <td>
